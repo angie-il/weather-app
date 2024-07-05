@@ -65,7 +65,7 @@ To get a local copy of this project up and running, follow these steps:
 - Set up the frontend
   
 ``` 
-  cd weather-front
+  cd weather-app/weather_project/weather-front
   npm install
 ```
 
